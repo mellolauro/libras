@@ -1,6 +1,6 @@
-## Projeto Libras
+# Projeto Libras
 
-# Projeto dedicado a pessoas especiais que precisam se comunicar por libras sem precisar de um tradutor.
+## Projeto dedicado a pessoas especiais que precisam se comunicar por libras sem precisar de um tradutor.
 
 Desenvolvido em python com modelo LSTMLibras; classes e dataset_tensors.
 
